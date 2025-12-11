@@ -1,0 +1,21 @@
+1. Pobiera od użytkownika imię i nazwisko.
+
+2. Generuje login w formacie:
+pierwsza litera imienia + całe nazwisko (małe litery)
+przykład: Jan Kowalski → jkowalski
+
+3. Pobiera od użytkownika liczbę znaków hasła.
+
+4. Generuje hasło o podanej długości, składające się z:
+
+-małych liter
+
+-wielkich liter
+
+-cyfr
+
+5. Wyświetla na ekranie:
+
+-wygenerowany login
+
+-wygenerowane hasło
